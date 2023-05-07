@@ -1,0 +1,16 @@
+./bin
+bin/src/main.o
+bin/src/main.c
+bin/src/function.o
+bin/src/function.c
+bin/include/value.h
+bin/include/utils.h
+bin/include/types.h
+bin/include/object.h
+bin/include/function.h
+bin/include/frame.h
+bin/bin/cidl
+bin/SConscript
+bin/cidl
+site_scons/__pycache__/site_init.cpython-311.pyc
+.sconsign.dblite
